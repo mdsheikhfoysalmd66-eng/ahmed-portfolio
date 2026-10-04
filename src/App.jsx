@@ -434,10 +434,10 @@ useEffect(() => {
     </p>
 
     <a
-      href="mailto:your-email@example.com"
+      href="mailto:foysal.claude09234@gmail.com"
       className="contact-email"
     >
-      your-email@example.com
+      foysal.claude09234@gmail.com
     </a>
 
     <div className="contact-links">
